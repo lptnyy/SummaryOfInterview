@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2209764b-938d-40b8-b36f-2c24482cf8b2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Antlr/src/main/java/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Antlr4/src/main/resources/Demo.g4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/.idea/libraries/db2jcc4_9_7.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/DBTestStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/controller/DBTestController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/dao/mysql/DB2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/dao/mysql/LevelDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/dao/mysql/PostGresql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/dao/mysql/Redis.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/dao/mysql/SQLServer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/dao/mysql/SSDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/fuc/DataBase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/fuc/DbTestInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/message/Receiver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/message/Sender.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/util/DataUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../DBTest/src/main/java/com/db/util/RabbitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JCLParser-master/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JCLParser-master/src/main/java/com/jsf/Constent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JCLParser-master/src/main/java/com/jsf/file/JCLFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JCLParser-master/src/main/java/com/jsf/file/ReadFileLineCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JCLParser-master/src/main/java/com/jsf/xml/CodeParser.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JCLParser-master/src/main/java/com/jsf/xml/bean/Option.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JCLParser-master/src/main/java/com/jsf/xml/bean/XMl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JCLParser-master/src/test/java/com/jsf/xml/CodeParserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JclToShell/src/main/java/com/wzy/Excel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JclToShell/src/main/java/com/wzy/ExcelInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JclToShell/src/main/java/com/wzy/JclTOJcl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JclToShell/src/main/java/com/wzy/JclTel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JclToShell/src/main/java/com/wzy/Job.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/layui.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/layui.mobile.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/modules/code.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/modules/laydate/default/laydate.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/modules/layer/default/icon-ext.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/modules/layer/default/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/modules/layer/default/layer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/modules/layer/default/loading-0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/modules/layer/default/loading-1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/modules/layer/default/loading-2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/css/view.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/font/ai.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/font/ai.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/font/ai.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/font/ai.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/font/iconfont.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/font/iconfont.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/font/iconfont.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/font/iconfont.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/ajaxpagertable.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/commonAjax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/element.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/flow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/form.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/jquery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/laydate.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/layedit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/layer.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/laypage.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/laytpl.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/mobile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/tree.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/uploadops.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/lay/modules/util.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/layui.all.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/assets/layui.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/home.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/js/base.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/js/jquery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/login.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/main.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/config/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/config/edt.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/config/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/console.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/fliter/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/operaterule.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/pool/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/project/appapilist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/project/applist.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/project/upload.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/service/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PHPWEB/views/users.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PaChong/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PaChong/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PostsqlInsertDb/src/main/java/com/postdb/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../PostsqlInsertDb/src/main/java/com/postdb/db/DbUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/bin/SLDB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/db/Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/db/ComparatorEnum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/db/DataIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/db/IteratorCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/db/cpt/CPREBCDNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/db/cpt/CPREnNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/db/cpt/CPRNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/main/java/com/leveldb/db/value/Value.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../SLLevelDB/src/test/java/com/leveldb/bin/SLDBTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../java-search/src/main/java/com/es/Conller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../mensa/src/test/java/com/dell/mensa/example/Example4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../nes-master/nes-master/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../St-Test/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../St-Test/src/main/java/com/test/AopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../St-Test/src/main/java/com/test/AopTestHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../St-Test/src/main/java/com/test/Developer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../St-Test/src/main/java/com/test/JavaDeveloper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SummaryOfInterview.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/summary/aop/LogAopInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/summary/aop/SpringAopInterceptor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/summary/aop/annotation/Logs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/summary/bin/ServiceStart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/summary/controller/TestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Bank" beforeDir="false" afterPath="$PROJECT_DIR$/../../Bank" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHPtest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHPtest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHPtest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHPtest/PHPtest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PHPtest/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PaChong/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PaChong/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PaChong/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PaChong/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PaChong/PaChong.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../PaChong/PaChong.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrinterTxt/.idea/compiler.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrinterTxt/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrinterTxt/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrinterTxt/PrinterTxt.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrinterTxt/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrinterTxt/src/main/java/com/test/txtJq.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PrinterTxt/target/classes/com/test/txtJq.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyTest/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyTest/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyTest/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyTest/PyTest.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../PyTest/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/api/ajax.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/api/ajax.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/api/roles.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/api/roles.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/router/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/router/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/utils/local-data.js" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/utils/local-data.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/functions/function.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/functions/function.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/login/login.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/login/login.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/main/main.less" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/main/main.less" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/main/main.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/main/main.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/role/role.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/role/role.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/user/users.vue" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/IVueView/src/view/user/users.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/controller/FunctionController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/controller/FunctionController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/controller/LoginController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/controller/LoginController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/controller/RoleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/controller/RoleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/entity/Function.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/entity/Function.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/entity/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/entity/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/mapper/FunctionMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/mapper/FunctionMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/mapper/RoleFunctionsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/mapper/RoleFunctionsMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/mapper/UserMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/mapper/UserMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/mapper/provider/UserProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/mapper/provider/UserProvider.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/FunctionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/FunctionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/IFunctionService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/IFunctionService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/IRoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/IRoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/IUserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/IUserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/RoleService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/RoleService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/util/MybaitsEntityUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/java/com/ajax/ajaxweb/util/MybaitsEntityUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/resources/log4j.properties" beforeDir="false" afterPath="$PROJECT_DIR$/../../VueBackstage/ajax-web/src/main/resources/log4j.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../go-reptile" beforeDir="false" afterPath="$PROJECT_DIR$/../../go-reptile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../iview-admin" beforeDir="false" afterPath="$PROJECT_DIR$/../../iview-admin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../java-box" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../leveldb" beforeDir="false" afterPath="$PROJECT_DIR$/../../leveldb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../shadowsocks-go-master.rar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../silu-vdb" beforeDir="false" afterPath="$PROJECT_DIR$/../../silu-vdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../silu-vdb.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-boot-java-box" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-boot-java-box" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../spring-cloud-project" beforeDir="false" afterPath="$PROJECT_DIR$/../../spring-cloud-project" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf" beforeDir="false" afterPath="$PROJECT_DIR$/../../thymeleaf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../thymeleaf.zip" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-614440719">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="67" />
+          <entry key="xml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="67" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="390" />
+          <entry key="xml" value="9" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="390" />
+          <entry key="XML" value="9" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/summary/aop/LogAopInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/summary/aop/SpringAopInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="494">
+              <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../spring-cloud-gateway-oauth2-sso-sample-application-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../spring-framework-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/summary/aop/annotation/Logs.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/com/summary/controller/TestController.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/summary/bin/ServiceStart.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/summary/aop/LogAop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/summary/aop/SpringAop.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/summary/aop/LogAopInterceptor.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/summary/aop/SpringAopInterceptor.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-3" />
+    <option name="y" value="77" />
+    <option name="width" value="1676" />
+    <option name="height" value="893" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="summary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="summary" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="summary" type="462c0819:PsiDirectoryNode" />
+              <item name="aop" type="462c0819:PsiDirectoryNode" />
+              <item name="annotation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="summary" type="462c0819:PsiDirectoryNode" />
+              <item name="bin" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="summary" type="462c0819:PsiDirectoryNode" />
+              <item name="controller" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SummaryOfInterview" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SummaryOfInterview" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1563184897504" />
+    <property name="go.gopath.indexing.explicitly.defined" value="true" />
+    <property name="last_opened_file_path" value="E:/vue" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="ServiceStart" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.summary.bin.ServiceStart" />
+      <module name="SummaryOfInterview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.summary.bin.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ServiceStart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2209764b-938d-40b8-b36f-2c24482cf8b2" name="Default Changelist" comment="" />
+      <created>1563182831853</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563182831853</updated>
+      <workItem from="1563182837704" duration="2055000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2055000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Designer" />
+      <window_info id="Image Layers" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Capture Tool" />
+      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1826923" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Tool Output" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="ANTLR Preview" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.1795735" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/summary/bin/ServiceStart.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.4.RELEASE/spring-web-5.1.4.RELEASE.jar!/org/springframework/web/bind/annotation/GetMapping.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="5" column="47" selection-start-line="5" selection-start-column="8" selection-end-line="5" selection-end-column="47" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/summary/aop/annotation/Logs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/summary/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-120">
+          <caret line="12" column="40" lean-forward="true" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/summary/aop/LogAopInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/summary/aop/SpringAopInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="494">
+          <caret line="43" column="8" lean-forward="true" selection-start-line="43" selection-start-column="8" selection-end-line="43" selection-end-column="8" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
